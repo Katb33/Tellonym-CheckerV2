@@ -11,6 +11,3 @@ Features :
 - [x] Proxyless
 - [x] Claims free username
 - [x] Discord Webhook Support
-
- ## Short Story
- ### i've always tried to communicate with Tellonym Dev to help them with their api vulnerabilities, but guess what, no response at all, so i kept annoying them, and i'll keep doing that because its fun.
