@@ -1,5 +1,5 @@
 # Tellonym-CheckerV2
-**Disclaimer, This project is for educational purposes only, And it'll not be released, Its a showcase only, I'm not responsable about anything related to this project.**
+**Disclaimer, This project is for educational purposes only, And it'll not be released, Its a showcase only, I'm not responsible about anything related to this project.**
 
 ## Fastest Tellonym username Checker.
 ### tellonym paying thousands for protection, me:
